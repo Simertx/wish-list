@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="dba5559a47141210bae8bc2f316d43bd" sys_domain="global" table="x_1525211_wish_lis_wish_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-30 16:55:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ba5559a47141210bae8bc2f316d43c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1525211_wish_lis_wish_item" name="x_1525211_wish_lis_wish_item" sys_domain="global" view="Default view">dba5559a47141210bae8bc2f316d43bd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1525211_wish_lis_wish_item" sys_domain="global" view="Default view">3c93d9de47d01210bae8bc2f316d4365</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-30 16:55:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-30 16:55:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17a5559a47141210bae8bc2f316d43c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1525211_wish_lis_wish_item" name="x_1525211_wish_lis_wish_item" sys_domain="global" view="Default view">dba5559a47141210bae8bc2f316d43bd</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1525211_wish_lis_wish_item" sys_domain="global" view="Default view">dfa5559a47141210bae8bc2f316d43bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-30 16:55:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-30 16:55:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1fa5559a47141210bae8bc2f316d43c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1525211_wish_lis_wish_item" name="x_1525211_wish_lis_wish_item" sys_domain="global" view="Default view">dba5559a47141210bae8bc2f316d43bd</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1525211_wish_lis_wish_item" sys_domain="global" view="Default view">dba5559a47141210bae8bc2f316d43bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-30 16:55:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1525211_wish_lis_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-30 16:55:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dba5559a47141210bae8bc2f316d43bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1525211_wish_lis_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_1525211_wish_lis">b6cea88647dc1210bae8bc2f316d4397</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">b6cea88647dc1210bae8bc2f316d4397</sys_scope>
+            <sys_update_name>sys_ui_form_sections_dba5559a47141210bae8bc2f316d43bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-30 16:55:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
